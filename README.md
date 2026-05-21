@@ -3,6 +3,13 @@
 Este es un simulador interactivo de algoritmos de sistemas operativos creado para fines educativos. 
 Está construido con una arquitectura Fullstack utilizando Next.js (Frontend) y NestJS (Backend).
 
+# Integrantes del grupo
+
+- Karina Cantillo Plaza
+- Lizeth Lorena Caicedo Mora
+- Juan Sebastian Osorio Fierro
+- Danay Mariana Pereira Ospina
+
 ## Tecnologías
 
 - **Frontend:** Next.js (App Router), React, Tailwind CSS, TypeScript
